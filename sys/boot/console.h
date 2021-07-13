@@ -22,7 +22,7 @@ static const size_t CONSOLE_WIDTH = 25;
 static const size_t CONSOLE_HEIGHT = 80;
 
 #define INIT_MSG "Console initialization complete."
-#define WEL_MSG "Welcome to evOS."
+#define WEL_MSG "Welcome to Squirrix"
 
 enum console_color {
 	BLACK = 0,
